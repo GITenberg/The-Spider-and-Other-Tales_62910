@@ -1,10 +1,13 @@
 _repo: The-Spider-and-Other-Tales_62910
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mattos, Alexander Teixeria de
     gutenberg_agent_id: '52172'
     url: http://www.gutenberg.org/2009/agents/52172
+covers:
+- cover_type: archival
+  image_path: 62910-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewald, Carl
@@ -17,6 +20,8 @@ creator:
     - https://da.wikipedia.org/wiki/Carl_Ewald
     - https://en.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62910#The-Spider-and-Other-Tales
 gutenberg_issued: '2020-08-12'
 gutenberg_type: Text
 identifiers:
